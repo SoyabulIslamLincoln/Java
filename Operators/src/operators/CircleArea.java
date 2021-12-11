@@ -20,7 +20,7 @@ public class CircleArea {
         radius=  input.nextDouble();
         
         area = Math.PI*Math.pow(radius, 2);
-        
+          
         System.out.println("Area of the circle :"+area);
         
         System.out.printf("Area of the circle : %.3f\n",area);
